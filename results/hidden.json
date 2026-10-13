@@ -1,0 +1,67 @@
+{
+ "model_version": "1.0.0+20261013",
+ "decision": "argmax",
+ "score": -0.5851797838182309,
+ "accuracy": 0.7800844791947515,
+ "all_metrics": {
+  "score": -0.5851797838182309,
+  "score_bayes": -0.6236560128107715,
+  "accuracy": 0.7800844791947515,
+  "macro_f1": 0.5564448008502064
+ },
+ "rank_among_finalists": 13,
+ "finalists": [
+  [
+   "Olawale Ibrahim",
+   -0.469
+  ],
+  [
+   "GIR Team",
+   -0.4792
+  ],
+  [
+   "Lab.ICA-Team / Smith A.",
+   -0.4954
+  ],
+  [
+   "H3G",
+   -0.5045
+  ],
+  [
+   "ISPL Team",
+   -0.5084
+  ],
+  [
+   "Jiampiers C.",
+   -0.5087
+  ],
+  [
+   "José Bermúdez",
+   -0.5091
+  ],
+  [
+   "Bohdan Pavlyshenko",
+   -0.5171
+  ],
+  [
+   "Jeremy Zhao",
+   -0.5173
+  ],
+  [
+   "Campbell Hutcheson",
+   -0.5221
+  ],
+  [
+   "David P.",
+   -0.5256
+  ],
+  [
+   "SoftServe Team",
+   -0.5263
+  ],
+  [
+   "Dapo Awolayo",
+   -0.9441
+  ]
+ ]
+}
