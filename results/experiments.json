@@ -1,0 +1,17 @@
+{
+ "n_train": 1170511,
+ "wells_train": 98,
+ "n_open": 136786,
+ "wells_open": 10,
+ "n_features": 65,
+ "stride": 4,
+ "minutes": 39.9,
+ "ece": 0.1290869133735043,
+ "temperature": 1.9640115391306558,
+ "ece_cv_scaled": 0.008488401285866169,
+ "ece_open": 0.0869029822228653,
+ "ece_open_scaled": 0.07508993520742395,
+ "subset10_p05": -0.8963161675032855,
+ "subset10_p95": -0.4739173933773437,
+ "halite_recall_cv": 0.17094849628637526
+}
